@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-10-22T19:37:51 EDT" name="Suite" finished-at="2020-10-22T19:37:51 EDT" duration-ms="35">
+    <groups>
+    </groups>
+    <test started-at="2020-10-22T19:37:51 EDT" name="Test" finished-at="2020-10-22T19:37:51 EDT" duration-ms="35">
+      <class name="TestProject.SeleniumTest">
+        <test-method signature="BrowserAutomation()[pri:0, instance:TestProject.SeleniumTest@7690781]" started-at="2020-10-22T19:37:51 EDT" name="BrowserAutomation" finished-at="2020-10-22T19:37:51 EDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserAutomation -->
+        <test-method signature="elementsUi()[pri:0, instance:TestProject.SeleniumTest@7690781]" started-at="2020-10-22T19:37:51 EDT" name="elementsUi" finished-at="2020-10-22T19:37:51 EDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- elementsUi -->
+      </class> <!-- TestProject.SeleniumTest -->
+      <class name="TestProject.AppiumTest">
+        <test-method signature="Ios()[pri:0, instance:TestProject.AppiumTest@26275bef]" started-at="2020-10-22T19:37:51 EDT" name="Ios" finished-at="2020-10-22T19:37:51 EDT" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Ios -->
+        <test-method signature="NativeAppAndroid()[pri:0, instance:TestProject.AppiumTest@26275bef]" started-at="2020-10-22T19:37:51 EDT" name="NativeAppAndroid" finished-at="2020-10-22T19:37:51 EDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NativeAppAndroid -->
+      </class> <!-- TestProject.AppiumTest -->
+      <class name="TestProject.RestApiTest">
+        <test-method signature="deleteTwitter()[pri:0, instance:TestProject.RestApiTest@77eca502]" started-at="2020-10-22T19:37:51 EDT" name="deleteTwitter" finished-at="2020-10-22T19:37:51 EDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteTwitter -->
+        <test-method signature="postJira()[pri:0, instance:TestProject.RestApiTest@77eca502]" started-at="2020-10-22T19:37:51 EDT" name="postJira" finished-at="2020-10-22T19:37:51 EDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postJira -->
+      </class> <!-- TestProject.RestApiTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
